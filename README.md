@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=140&section=header&text=Hi%20I'm%20Hrithika&fontSize=30&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=160&section=header&text=Hrithika&fontSize=34&fontAlignY=35&desc=Web%20Dev%20%7C%20Computer%20Vision%20%7C%20UI/UX&descAlignY=55)
 
 # Hi, I'm Hrithika 👋✨  
 💻 Code • 🎨 Design • 🧠 Build
