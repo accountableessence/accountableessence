@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=160&section=header&text=Hrithika&fontSize=34&fontAlignY=35&desc=Web%20Dev%20%7C%20Computer%20Vision%20%7C%20UI/UX&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=160&section=header&text=Hrithika%20E%20B&fontSize=34&fontAlignY=35&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Build&descAlignY=55)
 
 # Hi, I'm Hrithika 👋✨  
 💻 Code • 🎨 Design • 🧠 Build
@@ -43,7 +43,6 @@ Real-time posture detection using OpenCV & MediaPipe with live feedback
 
 ### 📚 PeerNotes – Student Resource Platform
 Gamified platform for sharing notes, question papers, and study materials  
-👉 *(Add repo link once uploaded)*
 
 ### ⏱️ Focus Session Timer (In Progress)
 Minimal productivity tool with strong UI/UX focus  
