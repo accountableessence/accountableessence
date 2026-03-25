@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=160&section=header&text=Hrithika%20E%20B&fontSize=34&fontAlignY=35&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Build&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:FFB6C1,100:E6E6FA&height=160&section=header&text=Hrithika&fontSize=34&fontAlignY=35&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Build&descAlignY=55)
 
 # Hi, I'm Hrithika 👋✨  
 💻 Code • 🎨 Design • 🧠 Build
@@ -60,5 +60,13 @@ Minimal productivity tool with strong UI/UX focus
 
 ---
 
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=accountableessence&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Connect
-- LinkedIn: https://linkedin.com/in/hrithika-eb
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithikaeb102@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithika-eb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/th_um_bi_05)
