@@ -51,7 +51,7 @@ Minimal productivity tool with strong UI/UX focus
 
 ## 🏆 Achievements
 - Winner – DesignHer UI/UX Competition (AURA 4.0, SCT)  
-- Winner – Designexa UI Competition, Dextra '26  
+- 2nd Prize – Designexa UI Competition, Dextra '26  
 
 ---
 
