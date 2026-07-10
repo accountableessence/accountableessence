@@ -17,7 +17,7 @@
 
 ```yaml
 name: Hrithika
-role: BTech CSE — Final Year Student
+role: BTech CSE — Final Year, APJ Abdul Kalam Technological University
 focus: [Web Development, UI/UX Design, Computer Vision]
 also_known_for: [poetry, visual art, bharatanatyam]
 currently: building a production-grade expense tracker
@@ -25,6 +25,12 @@ believes: good code deserves good design
 ```
 
 <br clear="right">
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+lofi+%2B+rain+sounds;%F0%9F%93%96+currently+reading%3A+add+your+book+here;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+add+something+fun" alt="Currently ticker" />
+</div>
+
+<br>
 
 ## 🛠️ tech stack
 
@@ -59,6 +65,30 @@ believes: good code deserves good design
 <img src="https://img.shields.io/badge/OpenCV-FF10F0?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/MediaPipe-3D5FFF?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Git-B24BF3?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+<br>
+
+## 📈 skill levels
+
+<div align="center">
+
+**Frontend Development**
+<br>
+<img src="https://progress-bar.dev/85/?scale=100&width=400&color=FF10F0&suffix=%20&title=" />
+
+**UI/UX Design**
+<br>
+<img src="https://progress-bar.dev/90/?scale=100&width=400&color=3D5FFF" />
+
+**Backend / Flask**
+<br>
+<img src="https://progress-bar.dev/75/?scale=100&width=400&color=B24BF3" />
+
+**Computer Vision**
+<br>
+<img src="https://progress-bar.dev/65/?scale=100&width=400&color=FF10F0" />
 
 </div>
 
@@ -135,6 +165,10 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 <br><br>
 <img src="https://img.shields.io/badge/🥈_2nd_Prize-Designexa_UI_Competition_(Dextra_'26)-3D5FFF?style=for-the-badge&labelColor=0d1117" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=accountableessence&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
+
 </div>
 
 <br>
@@ -152,11 +186,41 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 
 <br>
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&border=false" width="70%" />
+</div>
+
+<br>
+
 ## 📈 contribution graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=accountableessence&theme=react-dark&bg_color=0d1117&color=3D5FFF&line=FF10F0&point=B24BF3&hide_border=true" width="90%" />
+
+</div>
+
+<br>
+
+## 🐍 contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/github-snake-dark.svg" width="90%" />
+
+</div>
+
+<br>
+
+## 🧊 3d contribution calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 </div>
 
