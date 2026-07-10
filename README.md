@@ -76,19 +76,19 @@ believes: good code deserves good design
 
 **Frontend Development**
 <br>
-<img src="https://progress-bar.dev/85/?scale=100&width=400&color=FF10F0&suffix=%20&title=" />
+<img src="https://img.shields.io/badge/Frontend%20Development-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2085%25-FF10F0?style=for-the-badge&labelColor=0d1117" />
 
 **UI/UX Design**
 <br>
-<img src="https://progress-bar.dev/90/?scale=100&width=400&color=3D5FFF" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-3D5FFF?style=for-the-badge&labelColor=0d1117" />
 
 **Backend / Flask**
 <br>
-<img src="https://progress-bar.dev/75/?scale=100&width=400&color=B24BF3" />
+<img src="https://img.shields.io/badge/Backend%20%2F%20Flask-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2075%25-B24BF3?style=for-the-badge&labelColor=0d1117" />
 
 **Computer Vision**
 <br>
-<img src="https://progress-bar.dev/65/?scale=100&width=400&color=FF10F0" />
+<img src="https://img.shields.io/badge/Computer%20Vision-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2065%25-FF10F0?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
