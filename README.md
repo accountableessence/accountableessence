@@ -1,72 +1,177 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:FFB6C1,100:E6E6FA&height=160&section=header&text=Hrithika&fontSize=34&fontAlignY=35&desc=Code%20%E2%80%A2%20Design%20%E2%80%A2%20Build&descAlignY=55)
+<div align="center">
 
-# Hi, I'm Hrithika 👋✨  
-💻 Code • 🎨 Design • 🧠 Build
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:B24BF3,50:FF10F0,75:3D5FFF,100:0d1117&height=200&section=header&text=Hrithika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20•%20Design%20•%20Build&descAlignY=55&descColor=3D5FFF&animation=fadeIn)
 
-🎓 BTech Computer Science Student  
-💻 Exploring Web Development & Computer Vision  
-🎨 UI/UX enthusiast who builds clean, user-focused interfaces  
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF10F0&center=true&vCenter=true&width=620&lines=B.Tech+CS+Student+%40+KTU;UI%2FUX+Designer+%2B+Frontend+Dev;Turning+chaos+into+clean+interfaces;Poet+%F0%9F%96%8A+Artist+%F0%9F%8E%A8+Dancer+%F0%9F%92%83" alt="Typing SVG" />
 
----
+<img src="https://img.shields.io/badge/status-building_something-B24BF3?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=accountableessence&style=for-the-badge&color=3D5FFF&labelColor=0d1117&label=PROFILE+VIEWS" />
 
-## 🔧 Tech Stack
+</div>
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+<br>
 
-### 🌐 Web
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+## ⚡ about me
 
-### 🛠 Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+<img align="right" width="260" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif">
 
-### 📚 Familiar
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?logo=google&logoColor=white)
+```yaml
+name: Hrithika
+role: BTech CSE — Final Year Student
+focus: [Web Development, UI/UX Design, Computer Vision]
+also_known_for: [poetry, visual art, bharatanatyam]
+currently: building a production-grade expense tracker
+believes: good code deserves good design
+```
 
----
+<br clear="right">
 
-## 🚀 Projects
+## 🛠️ tech stack
 
-### 🧘 Deha – Yoga Posture Analysis System
-Real-time posture detection using OpenCV & MediaPipe with live feedback  
-👉 https://github.com/accountableessence/deha-yoga-visualizer
+<div align="center">
 
-### 📚 PeerNotes – Student Resource Platform
-Gamified platform for sharing notes, question papers, and study materials  
+**languages**
+<br>
+<img src="https://img.shields.io/badge/C-FF10F0?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/C++-3D5FFF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-B24BF3?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Java-FF10F0?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117" />
 
-### ⏱️ Focus Session Timer (In Progress)
-Minimal productivity tool with strong UI/UX focus  
+**web + frontend**
+<br>
+<img src="https://img.shields.io/badge/HTML5-3D5FFF?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/CSS3-B24BF3?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/JavaScript-FF10F0?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-3D5FFF?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Next.js-B24BF3?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TailwindCSS-FF10F0?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117" />
 
----
+**backend + data**
+<br>
+<img src="https://img.shields.io/badge/Flask-3D5FFF?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/SQL-B24BF3?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Supabase-FF10F0?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Firebase-3D5FFF?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0d1117" />
 
-## 🏆 Achievements
-- Winner – DesignHer UI/UX Competition (AURA 4.0, SCT)  
-- 2nd Prize – Designexa UI Competition, Dextra '26  
+**design + tools**
+<br>
+<img src="https://img.shields.io/badge/Figma-B24BF3?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenCV-FF10F0?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MediaPipe-3D5FFF?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-B24BF3?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" />
 
----
+</div>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=accountableessence&show_icons=true&theme=tokyonight)
+<br>
 
----
+## 🚀 featured projects
 
-## 📊 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=accountableessence&layout=compact&theme=tokyonight)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧾 Smart Shopping List & Expense Tracker
+Full-stack expense tracker with a custom design system — Flask + SQLite backend, Chart.js visualizations, and a hand-picked palette (moss, midnight green, rosy brown). Currently being upgraded to Supabase with live price API integration.
 
-## 📫 Connect
+`Flask` `SQLite` `Chart.js` `JavaScript`
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hrithikaeb102@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrithika-eb)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/th_um_bi_05)
+</td>
+<td width="50%" valign="top">
+
+### 🏨 HMS — Hotel Booking & Management
+Team-built hotel management system. Owned the Manager Dashboard — reservations view, hotel editor, and live nav — in a Next.js + Supabase stack.
+
+`Next.js` `TypeScript` `Supabase` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 Deha — Yoga Posture Analysis
+Real-time posture correction using OpenCV & MediaPipe with live feedback.
+<br>
+<a href="https://github.com/accountableessence/deha-yoga-visualizer">→ view repo</a>
+
+`Python` `OpenCV` `MediaPipe`
+
+</td>
+<td width="50%" valign="top">
+
+### 💪 AJ Protein Hub
+Business homepage for a Kerala-based supplement retailer, spanning three branches — bold neon red/black identity, carousels, and live location integration.
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 PeerNotes
+Gamified platform for sharing notes, question papers, and study materials.
+
+`Web App`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ Focus Session Timer
+Minimal productivity timer, in progress — strong UI/UX focus.
+
+`In Progress`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥇_Winner-DesignHer_UI%2FUX_(AURA_4.0%2C_SCT)-FF10F0?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://img.shields.io/badge/🥈_2nd_Prize-Designexa_UI_Competition_(Dextra_'26)-3D5FFF?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br>
+
+## 📊 github stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=accountableessence&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF10F0&icon_color=3D5FFF&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accountableessence&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF10F0&text_color=c9d1d9" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=accountableessence&theme=radical&hide_border=true&background=0d1117&ring=FF10F0&fire=3D5FFF&currStreakLabel=B24BF3" width="70%" />
+
+</div>
+
+<br>
+
+## 📈 contribution graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=accountableessence&theme=react-dark&bg_color=0d1117&color=3D5FFF&line=FF10F0&point=B24BF3&hide_border=true" width="90%" />
+
+</div>
+
+<br>
+
+## 📫 let's connect
+
+<div align="center">
+
+<a href="mailto:hrithikaeb102@gmail.com"><img src="https://img.shields.io/badge/Email-FF10F0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/hrithika-eb"><img src="https://img.shields.io/badge/LinkedIn-3D5FFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/th_um_bi_05"><img src="https://img.shields.io/badge/Instagram-B24BF3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+
+<br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:3D5FFF,50:FF10F0,75:B24BF3,100:0d1117&height=100&section=footer)
+
+</div>
