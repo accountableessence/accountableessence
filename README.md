@@ -187,11 +187,7 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 <br>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br><br>
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&border=false" width="70%" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="70%" />
 </div>
 
 <br>
