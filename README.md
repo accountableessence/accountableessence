@@ -17,7 +17,7 @@
 
 ```yaml
 name: Hrithika
-role: BTech CSE — Final Year, APJ Abdul Kalam Technological University
+role: BTech CSE — Final Year Student
 focus: [Web Development, UI/UX Design, Computer Vision]
 also_known_for: [poetry, visual art, bharatanatyam]
 currently: building a production-grade expense tracker
@@ -27,7 +27,7 @@ believes: good code deserves good design
 <br clear="right">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+lofi+%2B+rain+sounds;%F0%9F%93%96+currently+reading%3A+add+your+book+here;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+add+something+fun" alt="Currently ticker" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+Don't+Stop+Till+You+Get+Enough+%2B+-+Michael+Jackson;%F0%9F%93%96+currently+reading%3A+White Nights+-+Fyodor+Dostoevsky;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+git+push+--+pray+T-T" alt="Currently ticker" />
 </div>
 
 <br>
