@@ -2,10 +2,32 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:B24BF3,50:FF10F0,75:3D5FFF,100:0d1117&height=200&section=header&text=Hrithika&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Code%20•%20Design%20•%20Build&descAlignY=55&descColor=3D5FFF&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF10F0&center=true&vCenter=true&width=620&lines=B.Tech+CS+Student+%40+KTU;UI%2FUX+Designer+%2B+Frontend+Dev;Turning+chaos+into+clean+interfaces;Poet+%F0%9F%96%8A+Artist+%F0%9F%8E%A8+Dancer+%F0%9F%92%83" alt="Typing SVG" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ3ZTUyZjR3dHJkYmN3cTNheTlidnh3a3hzcjRwMXB5MHNxNmFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 
-<img src="https://img.shields.io/badge/status-building_something-B24BF3?style=for-the-badge&labelColor=0d1117" />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF10F0&center=true&vCenter=true&width=620&lines=B.Tech+CS+Student+%40+KTU;UI%2FUX+Designer+%2B+Frontend+Dev;Turning+chaos+into+clean+interfaces;Poet+%F0%9F%96%8A+Artist+%F0%9F%8E%A8+Dancer+%F0%9F%92%83" alt="Typing SVG" />
+</td>
+<td align="center" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="70" />
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="right">
 <img src="https://komarev.com/ghpvc/?username=accountableessence&style=for-the-badge&color=3D5FFF&labelColor=0d1117&label=PROFILE+VIEWS" />
+</td>
+<td width="40"></td>
+<td align="left">
+<img src="https://img.shields.io/badge/status-building_something-B24BF3?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -13,24 +35,37 @@
 
 ## ⚡ about me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gif3.gif">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td width="65%" valign="middle">
 
 ```yaml
 name: Hrithika
-role: BTech CSE — Final Year Student
+role: BTech CSE — Final Year, APJ Abdul Kalam Technological University
 focus: [Web Development, UI/UX Design, Computer Vision]
 also_known_for: [poetry, visual art, bharatanatyam]
 currently: building a production-grade expense tracker
 believes: good code deserves good design
 ```
 
-<br clear="right">
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="180" />
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="140" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+Heaven+Can+Wait+-+Michael+Jackson;%F0%9F%93%96+currently+reading%3A+White+Nights+-+Fyodor+Dostoevsky;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+git+push+--pray+%F0%9F%98%82" alt="Currently ticker" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+Don%27t+Stop+%27Til+You+Get+Enough+-+MJ;%F0%9F%93%96+currently+reading%3A+White+Nights+-+Dostoevsky;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+git+push+--pray+%F0%9F%98%82" alt="Currently ticker" />
 </div>
-<br
+
+<br>
 
 ## 🛠️ tech stack
+
+<img align="right" width="90" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 <div align="center">
 
@@ -66,11 +101,15 @@ believes: good code deserves good design
 
 </div>
 
-<br>
+<br clear="right">
 
 ## 📈 skill levels
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" width="110" />
+
+<br><br>
 
 **Frontend Development**
 <br>
@@ -82,7 +121,7 @@ believes: good code deserves good design
 
 **Backend / Flask**
 <br>
-<img src="https://img.shields.io/badge/Backend%20%2F%20Flask-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2075%25-B24BF3?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Backend%20%2F%20Flask-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%2060%25-B24BF3?style=for-the-badge&labelColor=0d1117" />
 
 **Computer Vision**
 <br>
@@ -93,6 +132,12 @@ believes: good code deserves good design
 <br>
 
 ## 🚀 featured projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="140" />
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -163,10 +208,6 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 <br><br>
 <img src="https://img.shields.io/badge/🥈_2nd_Prize-Designexa_UI_Competition_(Dextra_'26)-3D5FFF?style=for-the-badge&labelColor=0d1117" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=accountableessence&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
-
 </div>
 
 <br>
@@ -175,8 +216,8 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=accountableessence&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF10F0&icon_color=3D5FFF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accountableessence&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF10F0&text_color=c9d1d9" width="49%" />
+<img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/stats.svg" width="49%" />
+<img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/top-langs.svg" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=accountableessence&theme=radical&hide_border=true&background=0d1117&ring=FF10F0&fire=3D5FFF&currStreakLabel=B24BF3" width="70%" />
 
@@ -205,16 +246,6 @@ Minimal productivity timer, in progress — strong UI/UX focus.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/github-snake-dark.svg" width="90%" />
-
-</div>
-
-<br>
-
-## 🧊 3d contribution calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/accountableessence/accountableessence/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
 
 </div>
 
