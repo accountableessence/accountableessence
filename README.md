@@ -4,56 +4,34 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ3ZTUyZjR3dHJkYmN3cTNheTlidnh3a3hzcjRwMXB5MHNxNmFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF10F0&center=true&vCenter=true&width=620&lines=B.Tech+CS+Student+%40+KTU;UI%2FUX+Designer+%2B+Frontend+Dev;Turning+chaos+into+clean+interfaces;Poet+%F0%9F%96%8A+Artist+%F0%9F%8E%A8+Dancer+%F0%9F%92%83" alt="Typing SVG" />
-</td>
-<td align="center" width="90">
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="70" />
-</td>
-</tr>
-</table>
 
 <br><br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="right">
-<img src="https://komarev.com/ghpvc/?username=accountableessence&style=for-the-badge&color=3D5FFF&labelColor=0d1117&label=PROFILE+VIEWS" />
-</td>
-<td width="40"></td>
-<td align="left">
-<img src="https://img.shields.io/badge/status-building_something-B24BF3?style=for-the-badge&labelColor=0d1117" />
-</td>
-</tr>
-</table>
-
 </div>
+
+<img align="left" src="https://komarev.com/ghpvc/?username=accountableessence&style=for-the-badge&color=3D5FFF&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img align="right" src="https://img.shields.io/badge/status-building_something-B24BF3?style=for-the-badge&labelColor=0d1117" />
+
+<br clear="both">
 
 <br>
 
 ## ⚡ about me
 
-<table border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td width="65%" valign="middle">
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" />
 
 ```yaml
 name: Hrithika
-role: BTech CSE — Final Year Student
+role: BTech CSE — Final Year, APJ Abdul Kalam Technological University
 focus: [Web Development, UI/UX Design, Computer Vision]
 also_known_for: [poetry, visual art, bharatanatyam]
 currently: building a production-grade expense tracker
 believes: good code deserves good design
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="180" />
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=B24BF3&center=true&vCenter=true&width=560&lines=%F0%9F%8E%A7+currently+vibing+to%3A+Don%27t+Stop+%27Til+You+Get+Enough+-+MJ;%F0%9F%93%96+currently+reading%3A+White+Nights+-+Dostoevsky;%F0%9F%94%A8+currently+building%3A+expense+tracker+v2;%F0%9F%92%AD+currently+obsessed+with%3A+git+push+--pray+%F0%9F%98%82" alt="Currently ticker" />
