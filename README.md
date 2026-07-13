@@ -41,7 +41,7 @@
 
 ```yaml
 name: Hrithika
-role: BTech CSE — Final Year, APJ Abdul Kalam Technological University
+role: BTech CSE — Final Year Student
 focus: [Web Development, UI/UX Design, Computer Vision]
 also_known_for: [poetry, visual art, bharatanatyam]
 currently: building a production-grade expense tracker
