@@ -51,8 +51,6 @@ believes: good code deserves good design
 </td>
 <td width="35%" align="center" valign="middle">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="180" />
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="140" />
 </td>
 </tr>
 </table>
